@@ -3,9 +3,9 @@
 A simple machine learning project to classify whether a given text message is spam or not using natural language processing and a Naive Bayes classifier.
 
 Features:
-    - Classifies messages as "Spam" or "Not Spam"
-    - Trained using TF-IDF vectorization and Multinomial Naive Bayes
-    - Includes CLI prediction script
+- Classifies messages as "Spam" or "Not Spam"
+- Trained using TF-IDF vectorization and Multinomial Naive Bayes
+- Includes CLI prediction script
 
 ## Results
 
